@@ -15,7 +15,7 @@ public class Ejemplo02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        //presenta los valores impares existentes en el 10
         for (int i = 1; i <= 10; i+=2) {
             System.out.printf("%d\n", i);
         }
